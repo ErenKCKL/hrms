@@ -1,6 +1,7 @@
 # HRMS
 ## Database
-![alt text](https://github.com/ErenKCKL/hrms/HRMS-Database.png.jpg?raw=true)
+![image](https://github.com/ErenKCKL/hrms/assets/67120341/061e14e1-db1c-4719-8fb5-ef54b27b95f1)
+
 
 ## Project Overview
 
