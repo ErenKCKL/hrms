@@ -1,4 +1,6 @@
 # HRMS
+## Database
+![alt text](https://github.com/ErenKCKL/hrms/blob/[branch]/image.jpg?raw=true)
 
 ## Project Overview
 
